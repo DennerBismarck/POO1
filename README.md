@@ -9,3 +9,6 @@ Repositório criado para a disciplina DCT1107 - Programação Orientada a Objeto
 
 **Receita 2**
 - https://zapp.run/edit/flutter-z7fc060v7fd0?entry=lib/main.dart&file=lib/main.dart
+
+**Receita 3**
+- https://zapp.run/edit/poo1-receita-3-zxc606owxc70?file=lib/main.dart&entry=lib/main.dart
