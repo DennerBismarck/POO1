@@ -18,4 +18,5 @@ Repositório criado para a disciplina DCT1107 - Programação Orientada a Objeto
 - Versão 2: https://zapp.run/edit/poo-1-receita-4-v2-za5w067wb5x0?file=lib/main.dart&entry=lib/main.dart
 
 **Receita 5**
-- https://zapp.run/edit/poo1-receita-5-zd2406ksd250?entry=lib/main.dart&file=lib/main.dart
+- Versão 1: https://zapp.run/edit/poo1-receita-5-v1-zd2406ksd250?file=lib/main.dart:0-2277
+- Versão 2: https://zapp.run/edit/poo1-receita-5-v2-zdvk060ydvl0
