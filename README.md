@@ -29,6 +29,6 @@ Repositório criado para a disciplina DCT1107 - Programação Orientada a Objeto
   
 **Receita 8**
 - Receita 8 Padrão: https://zapp.run/edit/poo-1-receita-8-zv1h806oqv1h9?entry=lib/main.dart&file=lib/main.dart
-- Infinite Scrolling:
+  
 **Desafio de Routing, Mudança de Tema e Translations**
 - https://zapp.run/edit/desafio-routing-poo1-zgjs06tigjt0?file=lib/main.dart&entry=lib/main.dart
